@@ -1,0 +1,6 @@
+this os is based on the unix principles, because i don't have any creativity.
+
+i will follow the osdev steps
+
+
+
